@@ -13,6 +13,8 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: Example Site
     url: https://trythisforexample.com/
+  - name: Imaginary site
+    url: https://imagine.image.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
