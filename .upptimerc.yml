@@ -13,8 +13,6 @@ sites:
     url: https://docs.opensauced.pizza/
   - name: explore.opensauced.pizza
     url: https://explore.opensauced.pizza/
-  - name: admin.opensauced.pizza
-    url: https://admin.opensauced.pizza/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
