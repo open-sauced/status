@@ -3,18 +3,18 @@ owner: Deadreyo # Your GitHub organization or username, where this repository li
 repo: status.opensauced # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: Example Site
-    url: https://trythisforexample.com/
-  - name: Imaginary site
-    url: https://imagine.image.com
+  - name: hot.opensauced.pizza
+    url: https://hot.opensauced.pizza/
+  - name: api.opensauced.pizza
+    url: https://api.opensauced.pizza/
+  - name: app.opensauced.pizza
+    url: https://app.opensauced.pizza/
+  - name: docs.opensauced.pizza
+    url: https://docs.opensauced.pizza/
+  - name: explore.opensauced.pizza
+    url: https://explore.opensauced.pizza/
+  - name: admin.opensauced.pizza
+    url: https://admin.opensauced.pizza/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
