@@ -17,7 +17,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /status
+  cname: status.opensauced.pizza
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: OpenSauced Status
   introTitle: "**OpenSauced** is a platform for open source contributors to find and maintain their next contribution."
@@ -27,6 +27,9 @@ status-website:
       href: ./
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+assignees:
+  - 0-vortex
