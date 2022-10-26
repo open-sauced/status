@@ -1,5 +1,5 @@
 owner: open-sauced
-repo: status
+repo: status.opensauced.pizza
 user-agent: open-sauced
 
 sites:
@@ -15,7 +15,7 @@ sites:
     url: https://explore.opensauced.pizza/
 
 status-website:
-  theme: night
+  theme: ocean
   cname: status.opensauced.pizza
   logoUrl: https://hot.opensauced.pizza/static/openSauced.9ade9e5f.svg
   name: OpenSauced Status Monitor
