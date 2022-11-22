@@ -40,53 +40,59 @@
     "url": "https://app.opensauced.pizza/",
     "icon": "https://icons.duckduckgo.com/ip3/app.opensauced.pizza.ico",
     "slug": "app-opensauced-pizza",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 316,
-    "timeWeek": 185,
-    "timeMonth": 287,
-    "timeYear": 276,
-    "dailyMinutesDown": {}
+    "time": 356,
+    "timeDay": 1690,
+    "timeWeek": 545,
+    "timeMonth": 374,
+    "timeYear": 356,
+    "dailyMinutesDown": {
+      "2022-11-22": 0
+    }
   },
   {
     "name": "docs.opensauced.pizza",
     "url": "https://docs.opensauced.pizza/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.opensauced.pizza.ico",
     "slug": "docs-opensauced-pizza",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 646,
-    "timeWeek": 346,
-    "timeMonth": 306,
-    "timeYear": 304,
-    "dailyMinutesDown": {}
+    "time": 382,
+    "timeDay": 1837,
+    "timeWeek": 681,
+    "timeMonth": 391,
+    "timeYear": 382,
+    "dailyMinutesDown": {
+      "2022-11-22": 0
+    }
   },
   {
     "name": "explore.opensauced.pizza",
     "url": "https://explore.opensauced.pizza/",
     "icon": "https://icons.duckduckgo.com/ip3/explore.opensauced.pizza.ico",
     "slug": "explore-opensauced-pizza",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 1162,
-    "timeWeek": 255,
-    "timeMonth": 273,
-    "timeYear": 267,
-    "dailyMinutesDown": {}
+    "time": 346,
+    "timeDay": 2098,
+    "timeWeek": 603,
+    "timeMonth": 359,
+    "timeYear": 346,
+    "dailyMinutesDown": {
+      "2022-11-22": 0
+    }
   }
 ]
