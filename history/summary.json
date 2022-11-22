@@ -40,19 +40,19 @@
     "url": "https://app.opensauced.pizza/",
     "icon": "https://icons.duckduckgo.com/ip3/app.opensauced.pizza.ico",
     "slug": "app-opensauced-pizza",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 1690,
-    "timeWeek": 545,
-    "timeMonth": 374,
-    "timeYear": 356,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 353,
+    "timeDay": 1214,
+    "timeWeek": 514,
+    "timeMonth": 370,
+    "timeYear": 353,
     "dailyMinutesDown": {
-      "2022-11-22": 0
+      "2022-11-22": 7
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://docs.opensauced.pizza/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.opensauced.pizza.ico",
     "slug": "docs-opensauced-pizza",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 1837,
-    "timeWeek": 681,
-    "timeMonth": 391,
-    "timeYear": 382,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 380,
+    "timeDay": 1330,
+    "timeWeek": 641,
+    "timeMonth": 389,
+    "timeYear": 380,
     "dailyMinutesDown": {
-      "2022-11-22": 0
+      "2022-11-22": 7
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://explore.opensauced.pizza/",
     "icon": "https://icons.duckduckgo.com/ip3/explore.opensauced.pizza.ico",
     "slug": "explore-opensauced-pizza",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 346,
-    "timeDay": 2098,
-    "timeWeek": 603,
-    "timeMonth": 359,
-    "timeYear": 346,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 341,
+    "timeDay": 1461,
+    "timeWeek": 557,
+    "timeMonth": 354,
+    "timeYear": 341,
     "dailyMinutesDown": {
-      "2022-11-22": 0
+      "2022-11-22": 7
     }
   }
 ]
