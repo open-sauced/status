@@ -3,6 +3,8 @@ repo: status.opensauced.pizza
 user-agent: open-sauced
 
 sites:
+  - name: insights.opensauced.pizza
+    url: https://insights.opensauced.pizza/
   - name: hot.opensauced.pizza
     url: https://hot.opensauced.pizza/
   - name: api.opensauced.pizza
