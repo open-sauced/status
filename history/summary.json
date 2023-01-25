@@ -4,10 +4,10 @@
     "url": "https://insights.opensauced.pizza/",
     "icon": "https://icons.duckduckgo.com/ip3/insights.opensauced.pizza.ico",
     "slug": "insights-opensauced-pizza",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 437,
@@ -15,7 +15,9 @@
     "timeWeek": 312,
     "timeMonth": 463,
     "timeYear": 437,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "hot.opensauced.pizza",
@@ -58,9 +60,9 @@
     "url": "https://app.opensauced.pizza/",
     "icon": "https://icons.duckduckgo.com/ip3/app.opensauced.pizza.ico",
     "slug": "app-opensauced-pizza",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 222,
     "timeMonth": 352,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "docs.opensauced.pizza",
