@@ -25,7 +25,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://Deadreyo.github.io/upptime-test)
+[**Visit our status website →**](https://status.opensauced.pizza/)
 
 ## 📄 License
 
