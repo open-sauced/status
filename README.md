@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.opensauced.pizza/): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [NightKnight](https://www.linkedin.com/in/ahmed-mohamed-atwa/), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for OpenSauced, powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/Deadreyo/upptime-test/workflows/Uptime%20CI/badge.svg)](https://github.com/Deadreyo/upptime-test/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Deadreyo/upptime-test/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Deadreyo/upptime-test/actions?query=workflow%3A%22Response+Time+CI%22)
